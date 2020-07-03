@@ -1,0 +1,6 @@
+dnsdomainname
+hostname
+hostname -f
+cat /etc/hosts
+cat /etc/sysconfig/network
+cat /etc/resolve.conf
